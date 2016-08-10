@@ -4,10 +4,6 @@ config.path = "/PATH/TO/ml-resource-extension/"; // include trailing "/"
 
 config.host = "localhost";
 
-config.server = {
-  "port": 8574
-};
-
 config.database = {
   "name": "ml-resource-extension",
   "port": 8573
