@@ -81,7 +81,7 @@ function post(context, params, input) {
 };
 
 function deleteFunction(context, params) {
-  xdmp.log('POST invoked');
+  xdmp.log('DELETE invoked');
   return null;
 };
 
